@@ -1,0 +1,200 @@
+Initialize engine version: 5.1.1f1 (2046fc06d4d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   NVIDIA
+    VRAM:     4008 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: I:\Menelas\Menelas-2D-Iso-Game\Dev_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading I:\Menelas\Menelas-2D-Iso-Game\Dev_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: I:\Menelas\Menelas-2D-Iso-Game\Dev_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading I:\Menelas\Menelas-2D-Iso-Game\Dev_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: I:\Menelas\Menelas-2D-Iso-Game\Dev_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading I:\Menelas\Menelas-2D-Iso-Game\Dev_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: I:\Menelas\Menelas-2D-Iso-Game\Dev_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading I:\Menelas\Menelas-2D-Iso-Game\Dev_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: I:\Menelas\Menelas-2D-Iso-Game\Dev_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading I:\Menelas\Menelas-2D-Iso-Game\Dev_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: I:\Menelas\Menelas-2D-Iso-Game\Dev_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading I:\Menelas\Menelas-2D-Iso-Game\Dev_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.103 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: I:\Menelas\Menelas-2D-Iso-Game\Dev_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: I:\Menelas\Menelas-2D-Iso-Game\Dev_Data\Managed\System.dll (this message is harmless)
+Update time :0.02
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Health.SetHealth (Single myhealth) [0x00000] in <filename unknown>:0 
+  at Health.Affichage () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 5dbc -> priority: 1 
+  Thread -> id: 3ca0 -> priority: 1 
+Update time :0.01693868
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Health.SetHealth (Single myhealth) [0x00000] in <filename unknown>:0 
+  at Health.Affichage () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Update time :0.01685407
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Health.SetHealth (Single myhealth) [0x00000] in <filename unknown>:0 
+  at Health.Affichage () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Update time :0.0169899
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Health.SetHealth (Single myhealth) [0x00000] in <filename unknown>:0 
+  at Health.Affichage () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Update time :0.01587144
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Health.SetHealth (Single myhealth) [0x00000] in <filename unknown>:0 
+  at Health.Affichage () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Update time :0.01671774
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Health.SetHealth (Single myhealth) [0x00000] in <filename unknown>:0 
+  at Health.Affichage () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Update time :0.01662371
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Health.SetHealth (Single myhealth) [0x00000] in <filename unknown>:0 
+  at Health.Affichage () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Update time :0.01674704
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Health.SetHealth (Single myhealth) [0x00000] in <filename unknown>:0 
+  at Health.Affichage () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Update time :0.01668053
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Health.SetHealth (Single myhealth) [0x00000] in <filename unknown>:0 
+  at Health.Affichage () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Update time :0.0166288
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Health.SetHealth (Single myhealth) [0x00000] in <filename unknown>:0 
+  at Health.Affichage () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Update time :0.01668538
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Health.SetHealth (Single myhealth) [0x00000] in <filename unknown>:0 
+  at Health.Affichage () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Update time :0.01678476
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Health.SetHealth (Single myhealth) [0x00000] in <filename unknown>:0 
+  at Health.Affichage () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Update time :0.01660918
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Health.SetHealth (Single myhealth) [0x00000] in <filename unknown>:0 
+  at Health.Affichage () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Update time :0.01644354
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Health.SetHealth (Single myhealth) [0x00000] in <filename unknown>:0 
+  at Health.Affichage () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Update time :0.01661453
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Health.SetHealth (Single myhealth) [0x00000] in <filename unknown>:0 
+  at Health.Affichage () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Update time :0.01675877
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Health.SetHealth (Single myhealth) [0x00000] in <filename unknown>:0 
+  at Health.Affichage () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Update time :0.01666499
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at Health.SetHealth (Single myhealth) [0x00000] in <filename unknown>:0 
+  at Health.Affichage () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
