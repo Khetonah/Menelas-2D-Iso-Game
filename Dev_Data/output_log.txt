@@ -1,3 +1,10 @@
+Mono path[0] = 'I:/Menelas/Menelas-2D-Iso-Game/Dev_Data/Managed'
+Mono path[1] = 'I:/Menelas/Menelas-2D-Iso-Game/Dev_Data/Mono'
+Mono config path = 'I:/Menelas/Menelas-2D-Iso-Game/Dev_Data/Mono/etc'
+PlayerConnection initialized from I:/Menelas/Menelas-2D-Iso-Game/Dev_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55136
+Multi-casting "[IP] 192.168.0.11 [Port] 55136 [Flags] 2 [Guid] 741753977 [EditorId] 1147819245 [Version] 1048832 [Id] WindowsPlayer(WIN-ORKN6G4R0QS) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [192.168.0.11:55136]
 Initialize engine version: 5.1.1f1 (2046fc06d4d8)
 GfxDevice: creating device client; threaded=1
 Direct3D:
@@ -18,39 +25,205 @@ Platform assembly: I:\Menelas\Menelas-2D-Iso-Game\Dev_Data\Managed\UnityEngine.N
 Loading I:\Menelas\Menelas-2D-Iso-Game\Dev_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: I:\Menelas\Menelas-2D-Iso-Game\Dev_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
 Loading I:\Menelas\Menelas-2D-Iso-Game\Dev_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-- Completed reload, in  0.115 seconds
-desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+- Completed reload, in  0.125 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1322 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
 Platform assembly: I:\Menelas\Menelas-2D-Iso-Game\Dev_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: I:\Menelas\Menelas-2D-Iso-Game\Dev_Data\Managed\System.dll (this message is harmless)
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: e64 -> priority: 1 
-  Thread -> id: 4bec -> priority: 1 
+  Thread -> id: 3b08 -> priority: 1 
+  Thread -> id: 3b0c -> priority: 1 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 4.571168 ms
+UnloadTime: 4.747497 ms
+System memory in use before: 35.6 MB.
+System memory in use after: 35.7 MB.
 
-Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 786.
-Total: 0.240815 ms (FindLiveObjects: 0.030579 ms CreateObjectMapping: 0.015799 ms MarkObjects: 0.161563 ms  DeleteObjects: 0.021151 ms)
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 831.
+Total: 0.298916 ms (FindLiveObjects: 0.032363 ms CreateObjectMapping: 0.031089 ms MarkObjects: 0.193161 ms  DeleteObjects: 0.034911 ms)
 
 Update time :0.02
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Sprint:Stamina(Single) (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:59)
+Sprint:Affichage() (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:54)
  
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+(Filename: I:/Menelas/Menelas-2D-Iso-Game/Assets/Scripts/Sprint.cs Line: 59)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at Health.SetHealth (Single myhealth) [0x00000] in <filename unknown>:0 
-  at Health.Affichage () [0x00000] in <filename unknown>:0 
+Update time :0.01629108
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Sprint:Stamina(Single) (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:59)
+Sprint:Affichage() (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:54)
  
-(Filename:  Line: -1)
+(Filename: I:/Menelas/Menelas-2D-Iso-Game/Assets/Scripts/Sprint.cs Line: 59)
 
-Update time :0.01809508
+Update time :0.01625999
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Sprint:Stamina(Single) (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:59)
+Sprint:Affichage() (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:54)
  
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 65)
+(Filename: I:/Menelas/Menelas-2D-Iso-Game/Assets/Scripts/Sprint.cs Line: 59)
 
-NullReferenceException: Object reference not set to an instance of an object
-  at Health.SetHealth (Single myhealth) [0x00000] in <filename unknown>:0 
-  at Health.Affichage () [0x00000] in <filename unknown>:0 
+Update time :0.01618685
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Sprint:Stamina(Single) (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:59)
+Sprint:Affichage() (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:54)
  
-(Filename:  Line: -1)
+(Filename: I:/Menelas/Menelas-2D-Iso-Game/Assets/Scripts/Sprint.cs Line: 59)
+
+Update time :0.01614404
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Sprint:Stamina(Single) (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:59)
+Sprint:Affichage() (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:54)
+ 
+(Filename: I:/Menelas/Menelas-2D-Iso-Game/Assets/Scripts/Sprint.cs Line: 59)
+
+Update time :0.01575644
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Sprint:Stamina(Single) (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:59)
+Sprint:Affichage() (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:54)
+ 
+(Filename: I:/Menelas/Menelas-2D-Iso-Game/Assets/Scripts/Sprint.cs Line: 59)
+
+Update time :0.0214728
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Sprint:Stamina(Single) (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:59)
+Sprint:Affichage() (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:54)
+ 
+(Filename: I:/Menelas/Menelas-2D-Iso-Game/Assets/Scripts/Sprint.cs Line: 59)
+
+Update time :0.01662312
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Sprint:Stamina(Single) (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:59)
+Sprint:Affichage() (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:54)
+ 
+(Filename: I:/Menelas/Menelas-2D-Iso-Game/Assets/Scripts/Sprint.cs Line: 59)
+
+Update time :0.01646283
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Sprint:Stamina(Single) (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:59)
+Sprint:Affichage() (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:54)
+ 
+(Filename: I:/Menelas/Menelas-2D-Iso-Game/Assets/Scripts/Sprint.cs Line: 59)
+
+Update time :0.0163135
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Sprint:Stamina(Single) (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:59)
+Sprint:Affichage() (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:54)
+ 
+(Filename: I:/Menelas/Menelas-2D-Iso-Game/Assets/Scripts/Sprint.cs Line: 59)
+
+Update time :0.01797704
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Sprint:Stamina(Single) (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:59)
+Sprint:Affichage() (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:54)
+ 
+(Filename: I:/Menelas/Menelas-2D-Iso-Game/Assets/Scripts/Sprint.cs Line: 59)
+
+Update time :0.01613206
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Sprint:Stamina(Single) (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:59)
+Sprint:Affichage() (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:54)
+ 
+(Filename: I:/Menelas/Menelas-2D-Iso-Game/Assets/Scripts/Sprint.cs Line: 59)
+
+Update time :0.01640142
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Sprint:Stamina(Single) (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:59)
+Sprint:Affichage() (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:54)
+ 
+(Filename: I:/Menelas/Menelas-2D-Iso-Game/Assets/Scripts/Sprint.cs Line: 59)
+
+Update time :0.01683514
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Sprint:Stamina(Single) (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:59)
+Sprint:Affichage() (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:54)
+ 
+(Filename: I:/Menelas/Menelas-2D-Iso-Game/Assets/Scripts/Sprint.cs Line: 59)
+
+Update time :0.01637517
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Sprint:Stamina(Single) (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:59)
+Sprint:Affichage() (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:54)
+ 
+(Filename: I:/Menelas/Menelas-2D-Iso-Game/Assets/Scripts/Sprint.cs Line: 59)
+
+Update time :0.01689299
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Sprint:Stamina(Single) (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:59)
+Sprint:Affichage() (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:54)
+ 
+(Filename: I:/Menelas/Menelas-2D-Iso-Game/Assets/Scripts/Sprint.cs Line: 59)
+
+Update time :0.01648602
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Sprint:Stamina(Single) (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:59)
+Sprint:Affichage() (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:54)
+ 
+(Filename: I:/Menelas/Menelas-2D-Iso-Game/Assets/Scripts/Sprint.cs Line: 59)
+
+Update time :0.01956896
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Sprint:Stamina(Single) (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:59)
+Sprint:Affichage() (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:54)
+ 
+(Filename: I:/Menelas/Menelas-2D-Iso-Game/Assets/Scripts/Sprint.cs Line: 59)
+
+Update time :0.01733869
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Sprint:Stamina(Single) (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:59)
+Sprint:Affichage() (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:54)
+ 
+(Filename: I:/Menelas/Menelas-2D-Iso-Game/Assets/Scripts/Sprint.cs Line: 59)
+
+Update time :0.005018892
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Sprint:Stamina(Single) (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:59)
+Sprint:Affichage() (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:54)
+ 
+(Filename: I:/Menelas/Menelas-2D-Iso-Game/Assets/Scripts/Sprint.cs Line: 59)
+
+Update time :0.01097225
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Sprint:Stamina(Single) (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:59)
+Sprint:Affichage() (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:54)
+ 
+(Filename: I:/Menelas/Menelas-2D-Iso-Game/Assets/Scripts/Sprint.cs Line: 59)
+
+Update time :0.01708615
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Sprint:Stamina(Single) (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:59)
+Sprint:Affichage() (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:54)
+ 
+(Filename: I:/Menelas/Menelas-2D-Iso-Game/Assets/Scripts/Sprint.cs Line: 59)
+
+Update time :0.005289777
+UnityEngine.Debug:Internal_Log(Int32, String, Object)
+UnityEngine.Debug:Log(Object)
+Sprint:Stamina(Single) (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:59)
+Sprint:Affichage() (at I:\Menelas\Menelas-2D-Iso-Game\Assets\Scripts\Sprint.cs:54)
+ 
+(Filename: I:/Menelas/Menelas-2D-Iso-Game/Assets/Scripts/Sprint.cs Line: 59)
 

@@ -15,4 +15,10 @@ public class MainMenu : MonoBehaviour {
 	{
 		Application.Quit ();
 	}
+
+			public static void loadLevel(string Entrance)
+	{
+		LoadingScreen.show();
+		Application.LoadLevel(Entrance);
+	}
 }
