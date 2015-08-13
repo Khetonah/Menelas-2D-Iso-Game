@@ -23,7 +23,7 @@ public class MobNavigationEditor : Editor {
 
 				wp.showWaypoints (false);
 
-				Handles.color = new Color ((float)1, (float)0, (float)0, (float)0.1);
+				Handles.color = new Color ((float)0, (float)1, (float)0, (float)0.1);
 				Handles.DrawSolidDisc (initPos, Vector3.up, range);
 				Handles.color = Color.red;
 				range = 
