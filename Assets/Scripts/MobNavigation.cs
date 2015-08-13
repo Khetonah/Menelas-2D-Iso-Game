@@ -1,7 +1,6 @@
 ﻿using UnityEngine;
 using UnityEditor;
 
-using System.Collections;
 using System;
 
 public class MobNavigation : MonoBehaviour {
@@ -15,6 +14,8 @@ public class MobNavigation : MonoBehaviour {
 	public MovingType movingType;
 	public float range = 0;
 	public float sleepTime = 1;
+	public GameObject path;
+	public Boolean debug = false;
 
 	private float time = 0;
 	private Vector3 origin;
@@ -42,6 +43,8 @@ public class MobNavigation : MonoBehaviour {
 							float angle = UnityEngine.Random.Range ((float)0.0, (float)(2 * Math.PI));
 
 							navAgent.SetDestination (new Vector3 (origin.x + (float)(Math.Cos (angle) * range), origin.y, (float)origin.z + ((float)UnityEngine.Random.Range ((float)-Math.Sin (angle), (float)Math.Sin (angle)) * range)));
+						} else if(movingType == MovingType.path) {
+							navAgent.SetDestination(path.GetComponent<WayPointPath>().getNextPos());
 						}
 						time = 0;
 					}
